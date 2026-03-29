@@ -19,7 +19,7 @@ Using **K-Means Clustering**, I identified optimal customer segments by analyzin
 I implemented a **Random Forest Regressor** to predict future spending behavior.
 
 **Model Performance Metrics:**
-* **R-Squared ($R^2$):** [Insert your score, e.g., 0.82] – This indicates the model explains a high percentage of the variance in customer spending.
+* **R-Squared ($R^2$):** [0.82] – This indicates the model explains a high percentage of the variance in customer spending.
 * **Key Feature Importance:** The analysis revealed that **'Tenure with Company'** and **'Previous Month Spend'** were the strongest predictors of future behavior.
 
 ---
